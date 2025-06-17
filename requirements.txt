@@ -1,0 +1,9 @@
+arxiv
+wikipedia 
+langchain-chroma
+chromadb
+faiss-cpu
+langchain_huggingface
+langchain-openai
+openai
+langchain_groq
