@@ -7,3 +7,5 @@ langchain_huggingface
 langchain-openai
 openai
 langchain_groq
+langchain_community 
+streamlit 
