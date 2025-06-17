@@ -9,3 +9,4 @@ openai
 langchain_groq
 langchain_community 
 streamlit 
+duckduckgo-search
