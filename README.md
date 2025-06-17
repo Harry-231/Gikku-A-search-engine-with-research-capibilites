@@ -2,6 +2,8 @@
 
 **Gikku** is a sleek and intelligent AI-powered chat-based search engine. Built using LangChain, Streamlit, and Groq's blazing-fast LLaMA-3 model, Gikku can search across Wikipedia, Arxiv, and the web in real time — providing accurate and contextual responses in a beautifully designed interface.
 
+Checkout the app at : https://gikku-a-search-engine-with-research-capibilites-lvudxzloax9xd3.streamlit.app/
+
 ![Gikku Screenshot](https://github.com/Harry-231/Gikku-A-search-engine-with-research-capibilites/blob/main/Screenshot%202025-06-17%20191246.png) <!-- Optional: Include a screen recording or UI snapshot -->
 
 ---
